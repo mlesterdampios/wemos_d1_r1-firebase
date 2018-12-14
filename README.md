@@ -19,7 +19,7 @@ Requirements:
 
 ## Schematics
 
-  - Connect DHT11 signal (middle) to D5 input of esp8266
+  - Connect DHT11 signal (output) to D5 (equivalent to pin 14) input of esp8266
   - Supply vcc and gnd
   
 ## Sketch Setup
