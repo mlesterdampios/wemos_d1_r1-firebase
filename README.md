@@ -45,7 +45,7 @@ Requirements:
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+This project uses a number of open source projects to work properly:
 
 * [AdminLTE] - AdminLTE with Flot.JS
 * [ArduinoJson] - As pre-requisite of firebase-arduino
