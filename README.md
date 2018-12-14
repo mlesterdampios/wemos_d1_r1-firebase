@@ -62,6 +62,7 @@ or visit [Arduino-Core-for-ESP8266]
 
 ### Bonus2
 ![alt](https://4.bp.blogspot.com/-_w2jQDs-WpM/WqxJSkJulKI/AAAAAAAAGII/5Jza5ED32ec9DZfam5uQGkl54UjI-4BQwCLcBGAs/s1600/maxresdefault%2B%25285%2529.jpg)
+![alt](https://raw.githubusercontent.com/mlesterdampios/wemos_d1_r1-firebase/master/screenshot1.jpg)
 
 License
 ----
