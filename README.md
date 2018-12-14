@@ -52,7 +52,7 @@ Dillinger uses a number of open source projects to work properly:
 * [DHT] - Library for DHT modules
 * [firebase-arduino] - Library to connect arduino esp8266 to firebase
 
-### Bonus
+### Bonus1
 
 If you dont have wemos d1 r1 on your board list, add this to your board manager:
   ```json
@@ -60,9 +60,14 @@ If you dont have wemos d1 r1 on your board list, add this to your board manager:
   ```
 or visit [Arduino-Core-for-ESP8266]
 
+### Bonus2
+![alt](https://4.bp.blogspot.com/-_w2jQDs-WpM/WqxJSkJulKI/AAAAAAAAGII/5Jza5ED32ec9DZfam5uQGkl54UjI-4BQwCLcBGAs/s1600/maxresdefault%2B%25285%2529.jpg)
+
 License
 ----
-MIT
+* MIT 
+* [mlesterdampios-github]
+* [mlesterdampios-fb]
 
 
    [AdminLTE]: <https://github.com/almasaeed2010/AdminLTE>
@@ -70,3 +75,5 @@ MIT
    [DHT]: <https://playground.arduino.cc/Main/DHTLib>
    [firebase-arduino]: <https://github.com/FirebaseExtended/firebase-arduino>
    [Arduino-Core-for-ESP8266]: <https://github.com/esp8266/Arduino>
+   [mlesterdampios-github]: <https://github.com/mlesterdampios>
+   [mlesterdampios-fb]: <https://www.facebook.com/MarkLesterDampios101>
